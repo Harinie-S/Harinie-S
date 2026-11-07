@@ -1,16 +1,17 @@
-## Hi there 👋
+Hi, I'm Harinie 👋
+🎓 First-Year CSE Student at CIT Chennai
 
-<!--
-**Harinie-S/Harinie-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Currently Learning:
 
-Here are some ideas to get you started:
+Python
+C++
+SQL
+Data Structures & Algorithms
+Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Goals:
+
+Become a Software Developer
+Build useful projects
+Strengthen problem-solving skills
+📫 Connect with me: GitHub: https://github.com/Harinie-S
